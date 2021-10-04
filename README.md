@@ -6,7 +6,7 @@ This is a simple project to learn the various methods in data analysis starting 
 
 ## Problem Statement
 
-What is the rate of growth of the stock price of Apple from the year 1998 to 2021. Analysing the various factors that may have contributed to the rise or fall of their stock price.
+What is the rate of growth of the stock price of Apple from the year 1980 to 2021. Analysing the various factors that may have contributed to the rise or fall of their stock price.
 
 ## Dataset
 
